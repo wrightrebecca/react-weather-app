@@ -22,7 +22,11 @@ function App() {
           GitHub
         </a>{" "}
         and hosted by{" "}
-        <a href="#" target="_blank" rel="noreferrer">
+        <a
+          href="react-weather-forecaster-project.netlify.app"
+          target="_blank"
+          rel="noreferrer"
+        >
           Netlify
         </a>
         .
