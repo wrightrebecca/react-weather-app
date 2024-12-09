@@ -2,13 +2,14 @@
   color: #00a7c9;
   padding: 30px;
   border: 1px solid #00a7c9;
+  border-radius: 4px;
   margin: 35px auto;
 }
 .Weather h2 {
-  font-size: 26px;
+  font-size: 35px;
 }
 .Weather li {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2;
   list-style: none;
 }
@@ -20,10 +21,9 @@
   margin-bottom: 20px;
 }
 .Weather img {
-  width: 75px;
+  width: 100px;
   display: inline-block;
   margin-right: 10px;
-  margin-top: 10px;
 }
 .Weather .temperature {
   font-size: 65px;
@@ -35,4 +35,10 @@
 }
 .Weather .float-left {
   float: left;
+}
+.WeatherInfo .Stats {
+  margin-top: 30px;
+}
+.Weather .WeatherInfo {
+  margin-bottom: 30px;
 }
